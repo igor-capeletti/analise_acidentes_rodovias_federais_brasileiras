@@ -1,13 +1,7 @@
 # Análise de dados dos acidentes de trânsito ocorridos nas rodovias federais do Rio Grande do Sul
 
-Este trabalho de análise de dados foi realizado no ano de 2020 referente ao 1º semestre do ano letivo.
 
-No presente trabalho buscamos analisar os dados e responder questões sobre os acidentes acontecidos no Estado do Rio Grande do Sul nos anos de 2007 até 2020 que estavam disponíveis no site da Polícia Rodoviária Federal Brasileira.
-
-**Disciplina:** Introdução a Análise de Dados
-
-**Autores do trabalho:** [Ígor Ferrazza Capeletti](https://github.com/igor-capeletti) | [Gustavo Cardozo Rodrigues](https://github.com/gustavocrod)
-
+No presente trabalho serão analisados os dados e respondidas questões sobre os acidentes acontecidos no Estado do Rio Grande do Sul nos anos de 2007 até 2020.
 
 
 ## Aquisição dos dados
