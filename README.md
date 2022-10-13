@@ -26,15 +26,40 @@ Os dados são disponibilizados em 3 grupos:
 Os dados são provenientes dos sistemas BR-Brasil e Boletim de Acidente de Trânsito (BAT), com as seguintes considerações:
 * O sistema BR-Brasil foi usado em nivel nacional entre 2007 a 2016. Os acidentes foram armazenados usando o sistema BR-Brasil. Nesse sistema o policial responsável pela ocorrencia insere os dados relacionados aos involvidos, localização, veículos e a dinâmica do acidente.
 
----
+
 ## Download dos arquivos:
-* Arquivos de execução em formato Jupyter Notebook(.ipynb): 
+* [Arquivos de execução em formato Jupyter Notebook(.ipynb)](https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras)
+* [Arquivos para as análises(.csv)](https://drive.google.com/file/d/1pBDrDMnYS9oeQ-o14GWVmBsCNlYverG5/view?usp=sharing)
 
----
+
 ## Instalação de dependências:
+### Windows:
+  * [Python3](https://python.org.br/instalacao-windows)
+  * Você poderá instalar somente o [Jupyter Notebook](https://jupyter.org/install) ou o pacote completo [Anaconda](https://www.anaconda.com/)
+
+### Linux:
+  * As versões Linux mais atuais já possuem o Python3 instalado, mas você pode baixar e instalar nas versões anteriores utilizando os os seguintes comandos:
+  ```
+  sudo apt-get install python3
+  ```
+  e também:
+  ```
+  sudo apt-get install python3-pip
+  ```
+  * Pode seguir o tutorial do [Jupyter Notebook](https://jupyter.org/install) ou executar:
+  ```
+  pip install notebook
+  ```
+### Mac:
+  * [Python3](https://www.python.org/downloads/macos)
+  * Você poderá instalar somente o [Jupyter Notebook](https://jupyter.org/install) ou o pacote completo [Anaconda](https://www.anaconda.com/)
 
 
----
 ## Execução dos experimentos:
+1. Você precisa extrair o arquivo [arquive](https://drive.google.com/file/d/1pBDrDMnYS9oeQ-o14GWVmBsCNlYverG5/view?usp=sharing) zipado e colocar na mesma pasta dos arquivos **.ipynb**.
 
+2. Abrir o Jupyter Notebook ou o Anaconda e acessar os arquivos **.ipynb**.
 
+3. Você poderá executar somente o arquivo **acidentes_br.ipynb** para visualizar as análises. Os arquivos **data_cleaning_ocorrencia.ipynb** e **data_cleaning_pessoas.ipynb** são referentes à limpeza e normalização dos dados originais.  
+
+## Alguns gráficos gerados:
