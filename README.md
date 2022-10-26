@@ -26,7 +26,7 @@ Os dados são provenientes dos sistemas BR-Brasil e Boletim de Acidente de Trân
 * [Arquivos para as análises(.csv)](https://drive.google.com/file/d/1pBDrDMnYS9oeQ-o14GWVmBsCNlYverG5/view?usp=sharing)
 
 
-## Instalação de dependências:
+## Instalação do Python, Pip e Jupyter Notebook:
 ### Windows:
   * [Python3](https://python.org.br/instalacao-windows)
   * Você poderá instalar somente o [Jupyter Notebook](https://jupyter.org/install) ou o pacote completo [Anaconda](https://www.anaconda.com/)
@@ -42,12 +42,18 @@ Os dados são provenientes dos sistemas BR-Brasil e Boletim de Acidente de Trân
   ```
   * Pode seguir o tutorial do [Jupyter Notebook](https://jupyter.org/install) ou executar:
   ```
-  pip install notebook
+  sudo pip install notebook
   ```
 ### Mac:
   * [Python3](https://www.python.org/downloads/macos)
   * Você poderá instalar somente o [Jupyter Notebook](https://jupyter.org/install) ou o pacote completo [Anaconda](https://www.anaconda.com/)
 
+## Instalação de Bibliotecas:
+  * Pandas e Numpy para tratamento dos dados;
+  * Seaborn, Matplotlib e Folium para geração dos gráficos;
+  ```
+  sudo pip3 install -r requirements.txt
+  ```
 
 ## Execução dos experimentos:
 1. Você precisa extrair o arquivo [arquive](https://drive.google.com/file/d/1pBDrDMnYS9oeQ-o14GWVmBsCNlYverG5/view?usp=sharing) zipado e colocar na mesma pasta dos arquivos **.ipynb**.
