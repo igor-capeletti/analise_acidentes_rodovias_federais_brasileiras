@@ -63,7 +63,11 @@ Os dados são provenientes dos sistemas BR-Brasil e Boletim de Acidente de Trân
 3. Você poderá executar somente o arquivo **acidentes_br.ipynb** para visualizar as análises. Os arquivos **data_cleaning_ocorrencia.ipynb** e **data_cleaning_pessoas.ipynb** são referentes à limpeza e normalização dos dados originais.  
 
 ## Alguns gráficos gerados:
-<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/mapa_calor_acidentes_nas_rodovias.png"/>
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/mapa_calor_acidentes_2017_2020.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/mapa_calor_mortes_2019_2020.png"/>
 
 ---
 
