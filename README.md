@@ -63,3 +63,28 @@ Os dados são provenientes dos sistemas BR-Brasil e Boletim de Acidente de Trân
 3. Você poderá executar somente o arquivo **acidentes_br.ipynb** para visualizar as análises. Os arquivos **data_cleaning_ocorrencia.ipynb** e **data_cleaning_pessoas.ipynb** são referentes à limpeza e normalização dos dados originais.  
 
 ## Alguns gráficos gerados:
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/mapa_calor_acidentes_nas_rodovias.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/download.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/dias_da_semana_com_acidentes_por_ano.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/acidentes_por_horario_do_dia.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/acidentes_por_hora_e_dia.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/motivos_que_levaram_aos_acidentes.png"/>
+
+---
+
+<img src="https://github.com/igor-capeletti/analise_acidentes_rodovias_federais_brasileiras/blob/main/img/acidentes_por_faixa_etaria_dos_motoristas.png"/>
